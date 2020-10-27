@@ -272,7 +272,7 @@
     if (!sizing)
       return;
 
-    var cel = document.getElementById("htmlwidget_container");
+    var cel = document.getElementById("htmlwidget_container_sunburst");
     if (!cel)
       return;
 
